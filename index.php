@@ -21,7 +21,7 @@ function sayHello($name) {
 		sayHello('remote world');
 			
 		phpinfo(); 
-			
+			hh
 		?>
 	</body>
 </html>
